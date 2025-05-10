@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Swastik Mishra 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&width=600&lines=Full-Stack+Developer;Passionate+about+Tech+%26+Innovation;Open-Source+Enthusiast" alt="Typing SVG">
-</p>
+
 
 
 ---
