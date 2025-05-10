@@ -1,12 +1,63 @@
-- 👋 Hi, I’m @Mr-Swastik-Mishra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi, I'm Swastik Mishra 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&width=600&lines=Full-Stack+Developer;Passionate+about+Tech+%26+Innovation;Open-Source+Enthusiast" alt="Typing SVG">
+</p>
 
-<!---
-Mr-Swastik-Mishra/Mr-Swastik-Mishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
+### 🚀 **About Me**
+- 🔭 I’m currently working on **Freelancing**
+- 🌱 I’m currently learning **Advanced Java**
+- 💬 Ask me about **Python & Java**
+- 📫 How to reach me: **Swastikm206@gmail.com**
+- ⚡ Fun fact: **I love to explore new techs**
+
+---
+
+## 📊 **GitHub Activity**
+<p align="center">
+
+  <br>
+  <a href="https://github.com/Mr-Swastik-Mishra">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Swastik-Mishra&layout=compact&theme=dark&langs_count=6&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+## 🚀 **GitHub Contributions**
+<p align="center">
+  <a href="https://github.com/Mr-Swastik-Mishra">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-Swastik-Mishra&theme=github_dark" alt="GitHub Contributions" />
+  </a>
+</p>
+
+---
+
+## 🏆 **GitHub Trophies**
+<p align="center">
+  <a href="https://github.com/Mr-Swastik-Mishra">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mr-Swastik-Mishra&theme=onedark&margin-w=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+## 💻 **Tech Stack & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,java,c,cpp,mysql,mongodb,git,github,linux" />
+</p>
+
+---
+
+### 🌍 **Connect with Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/swastik-mishra-370b2530b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mr-Swastik-Mishra" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
